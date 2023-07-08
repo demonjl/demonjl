@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I’m Joaquin Lucero<br><br>I'm passionate about technology, especially in the field of programming.<br>I'm currently studying for a degree, and at the same time working on my own projects and as a freelance programmer.<br><br>In the programming languages that I highlight the most are: Python, js, css and html. Along with their frameworks and libraries such as Django-DRF, a bit of react, tailwind css, bootstrap.<br>I also have experience with relational databases like PostgreSQL, MySQL, SQLite, and non-relational databases like MongoDB.
+Hi 👋, I’m Joaquin Lucero<br><br>Passionate about technology, especially in the field of programming.<br>Currently studying for a degree, and at the same time working on my own projects and as a freelance programmer.<br><br>In the programming languages that I highlight the most are: Python, js, css and html. Along with their frameworks and libraries such as Django-DRF, react, tailwind css, bootstrap.<br>I also have experience with relational databases like PostgreSQL, MySQL, SQLite, and non-relational databases like MongoDB.
 
 
 ## 🌐 Socials:
