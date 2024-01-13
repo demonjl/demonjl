@@ -10,7 +10,7 @@ Hi 👋, I’m Joaquin Lucero<br><br>Passionate about technology, especially in 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats-demonjl.vercel.app/api?username=demonjl&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=demonjl&theme=react&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=demonjl&theme=react&locale=es)](https://joaquinlucero.com)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=demonjl&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=demonjl&icon=5&color=0)](https://joaquinlucero.com)
